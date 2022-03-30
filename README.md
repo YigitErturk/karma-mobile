@@ -7,4 +7,4 @@ BAU Galata Campus
 <a href="//modanisa.com">Modanisa.com</a> işbirliğiyle geliştiridi.
 
 ## Presentation
-Links of the presentation can be reached from <a href="sample-presentation">buradan</a> 
+Links of the presentation can be reached from <a href="sample-presentation">here</a> 
